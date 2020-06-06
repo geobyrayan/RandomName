@@ -1,0 +1,100 @@
+System Design Introduction:
+
+Characteristics:
+
+1. Features
+2. Define API'System
+3. Avaialability
+4. Latency -> Super fast, cache,etc
+5. Performance -> 
+6. Scalability -> 
+7. Durability -> Data can be stroed securely and not compromised
+8. Class diagrams
+9. Security and privacy -> Authentication
+10. Cost effective
+
+
+Concepts:
+
+1. Vertical vs Horizontal scaling - done
+2. SQL vs NoSql - done
+3. CAP Theorom  - done
+   - Consistency, Availability, Partition
+4. ACID vs BASE - done
+   Atomicity, Consistency, Isolation, Durabilty -> SQL
+   Basically available soft state eventual consistency -> NoSQL
+5. Sharding -> consistent hashing - done
+6. Optimistic vs pessimistic locking -> optional-- vague
+7. Strong vs eventual consistency - done
+8. Types of NoSQL -> KeyValue, Wide column, 
+                     document based, graph based  - done
+9.  Caching - done
+10. Datacenter, racks, hosts
+11. Random vs Sequential read\write
+12. http vs https
+13. TCP/IP model
+14. IPV4 vs IPV6 - >128 bit
+15. TCP vs UDP
+16. DNS lookup
+17. SSL\TLS
+18. Public key infrastructure
+19. Load balancers - 
+20. CDNs and EDGE servers
+21. Virtual Machines
+22. Publisher-Subscriber over queue 
+
+System architecture
+  1. cache
+  2. Load balancers
+  3. CDNs
+  4. Virtual Machines
+  5. Publisher-Subscriber over queue
+  6. API gateway
+  7. web crawling
+  8. web scrapping
+Database
+   1. Vertical vs Horizontal scaling - done
+   2. SQL vs NoSql - done
+   3. CAP Theorom  - done
+      - Consistency, Availability, Partition
+   4. ACID vs BASE - done
+      Atomicity, Consistency, Isolation, Durabilty -> SQL
+      Basically available soft state eventual consistency -> NoSQL
+   5. Sharding -> consistent hashing - done
+   6. Optimistic vs pessimistic locking -> optional-- vague
+   7. Strong vs eventual consistency - done
+   8. Types of NoSQL -> KeyValue, Wide column, 
+                        document based, graph based  - done
+   9. Random vs Sequential read\write
+Networking
+  1. telnet\ssh - terminal emulation program, simple command line tool alternate option of secure shell (ssh)
+  2. Datacenter, racks, hosts, servers
+  3. proxy servers
+  4. firewall
+  5. http vs https
+  6. ssl\TLS
+  7. TCP\IP model
+  8. TCP vs UDP
+  9. DNS
+  10. SMTP
+  11. POP3 vs IMAP
+  12. DDOS Attack
+  13. half duplex vs full duplex
+  14. FTP
+  15. RAM 
+  16. IPv4 vs IPV6 12:34:45:256
+  17. VPN
+Cryptography
+  1. symmetric Cryptography
+  2. assymetric Cryptography
+  3. Public key infrastructure
+  4. Encryption algorithms like AES, RSA, DES, etc
+Computer architecture
+  1. Parallel vs concurrency
+  2. Threading
+  3. Deadlock
+  4. deamon process
+  5. 
+
+
+
